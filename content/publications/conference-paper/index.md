@@ -22,8 +22,10 @@ publishDate: '2017-01-01T00:00:00Z'
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
 publication_types: ['paper-conference']
+
 # Publication metadata — structured fields used by citation styles and BibTeX export.
-  publication: "Proceedings of the HugoBlox Kit Conference (ICW)"
+publication: "Proceedings of the HugoBlox Kit Conference (ICW)"
+
 peer_reviewed: true
 open_access: true
 license: CC-BY-4.0
