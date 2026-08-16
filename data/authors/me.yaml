@@ -2,115 +2,114 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
+  display: Hafiz Nauman Baig
+  given: Hafiz Nauman
+  family: Baig
+  alternate: ''
+  pronunciation: ''
   pronouns: he/him
 postnominals:
-  - PhD
-  - MIEEE
+  - M.Phil.
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  icon: "🐟"
+role: PhD Research Scholar (Zoology / Fisheries & Aquaculture)
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Hafiz Nauman Baig is a PhD Research Scholar in the Department of Zoology at Quaid-i-Azam University, Islamabad. His research focuses on fish environmental and thermal stress physiology, sustainable intensive aquaculture, oxidative stress biomarkers, and innovative dietary prophylactic strategies in recirculating aquaculture systems (RAS).
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Quaid-i-Azam University (QAU), Islamabad
+    url: https://qau.edu.pk/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:nbaig.32411003@zoo.qau.edu.pk
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/hafiznauman31
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://www.linkedin.com/in/hafiznaumanbaig/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Fish Thermal & Environmental Stress Physiology
+  - Sustainable Intensive Aquaculture & RAS
+  - Oxidative Stress Biomarkers & Histopathology
+  - Molecular Growth Regulation & Gene Expression
+  - Fish Health & Dietary Prophylactics
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: Ph.D. Zoology (Fisheries & Aquaculture)
+    institution: Quaid-i-Azam University (QAU), Islamabad
+    start: 2024-03-01
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+      Coursework completed (18 Credit Hours). Research focusing on fish stress physiology, histopathology, and aquaculture health management.
+  - degree: M.Phil. Zoology (Fisheries & Aquaculture)
+    institution: The University of Lahore (UOL), Lahore
+    start: 2021-09-01
+    end: 2023-08-31
+    summary: |
+      Graduated with CGPA 3.73/4.00 (First Division). Thesis on physiological and protective roles of dietary Vitamin C against ZnSO4 toxicity in Nile Tilapia.
+  - degree: B.S. (4-Year) Zoology (Fisheries Specialization)
+    institution: University of the Punjab (PU), Lahore
+    start: 2014-09-01
+    end: 2018-06-30
+    summary: |
+      First Division. Specialized in Fisheries, aquatic biology, and animal physiology.
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: PhD Research Scholar
+    org: Quaid-i-Azam University
+    start: 2024-03-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Conducting advanced doctoral research on fish environmental stress, histopathology, and physiological biomonitoring.
+  - role: Fisheries Research Assistant
+    org: Department of Fisheries, Government of Punjab (Chakwal)
+    start: 2019-07-01
+    end: 2020-07-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Conducted cage culture operations, monitored water quality parameters, and assisted in aquatic disease surveillance and biomass tracking.
 
 skills:
-  - name: Technical Skills
+  - name: Aquaculture & Physiology
     items:
-      - label: Python
+      - label: Fish Husbandry & RAS Operations
         level: 5
-      - label: Machine Learning
+      - label: Water Bio-chemistry Monitoring
         level: 5
-      - label: Cloud Computing
+      - label: Toxicity Profiling & Bio-assays
         level: 4
-  - name: Research & Communication
+      - label: Tissue Microtomy & Histopathology
+        level: 4
+  - name: Molecular & Analytical Tools
     items:
-      - label: Academic Writing
+      - label: RNA Extraction & RT-qPCR
+        level: 4
+      - label: Colorimetric & ELISA Assays
+        level: 4
+      - label: R-Studio & Statistical Modeling (LMM, ZOIB)
+        level: 4
+      - label: SPSS & Data Analysis
         level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
 
 languages:
   - name: English
     level: 5
+    label: Professional / Fluent
+  - name: Urdu
+    level: 5
     label: Native
-  - name: Spanish
-    level: 4
-    label: Fluent
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: Invited Trainer & Presenter
+    awarder: Quaid-i-Azam University / PFS / HEC
+    date: "2025-01-15"
+    summary: Presented on Fish Health Management and Genetic Tools for Sustainable Fisheries at International Symposium.
     icon: hero/trophy
+  - title: Ocean Governance Certification
+    awarder: IOI Ocean Academy
+    date: "2025-10-01"
+    summary: Certified in Sustainable Use of Ocean Resources and Marine Governance.
+    icon: hero/academic-cap
