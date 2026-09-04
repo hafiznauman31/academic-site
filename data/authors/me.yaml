@@ -113,13 +113,32 @@ languages:
     label: Native
 
 awards:
-  - title: Invited Trainer & Presenter
-    awarder: Quaid-i-Azam University / PFS / HEC
-    date: "2025-01-15"
-    summary: Presented on Fish Health Management and Genetic Tools for Sustainable Fisheries at International Symposium.
-    icon: hero/trophy
-  - title: Ocean Governance Certification
-    awarder: IOI Ocean Academy
-    date: "2025-10-01"
-    summary: Certified in Sustainable Use of Ocean Resources and Marine Governance.
+  - title: Emergency Preparedness for Aquatic Disease Outbreaks
+    awarder: FAO eLearning Academy (Food and Agriculture Organization of the UN)
+    date: "2025-12-24"
+    summary: Certified in aquatic animal disease surveillance, rapid emergency response, and biosecurity protocols.
+    icon: hero/shield-check
+
+  - title: Aquaculture Breeding and Genetics
+    awarder: FAO eLearning Academy (Food and Agriculture Organization of the UN)
+    date: "2025-12-22"
+    summary: Certified in fish selective breeding programs, broodstock management, and genetic improvement strategies.
     icon: hero/academic-cap
+
+  - title: 100 Days Shrimp Farming Training Program
+    awarder: Tawakkal Fish Hatchery & Farms
+    date: "2025-11-18"
+    summary: Hands-on intensive field training covering shrimp husbandry, pond water dynamics, feed optimization, and biosecurity.
+    icon: hero/beaker
+
+  - title: Ocean Governance & Climate Change Mitigation
+    awarder: International Ocean Institute (IOI) Ocean Academy
+    date: "2025-10-10"
+    summary: Completed 20-hour specialized module on marine resource sustainability, governance frameworks, and ocean climate strategies.
+    icon: hero/globe-alt
+
+  - title: Organizer – International Symposium on Fish Health & Genetics
+    awarder: Quaid-i-Azam University / Pakistan Fisheries Society / HEC
+    date: "2025-01-09"
+    summary: Key event organizer for the international symposium "Innovating for Tomorrow: Fish Health Management and Genetic Tools for Sustainable Fisheries".
+    icon: hero/trophy
