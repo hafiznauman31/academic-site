@@ -1,3 +1,25 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Hafiz Nauman Baig
+  given: Hafiz Nauman
+  family: Baig
+  alternate: ''
+  pronunciation: ''
+  pronouns: he/him
+postnominals:
+  - M.Phil.
+status:
+  icon: "🐟"
+role: PhD Research Scholar (Zoology / Fisheries & Aquaculture)
+bio: |
+  Hafiz Nauman Baig is a PhD Research Scholar in the Department of Zoology at Quaid-i-Azam University, Islamabad. His research focuses on fish environmental and thermal stress physiology, sustainable intensive aquaculture, oxidative stress biomarkers, and innovative dietary prophylactic strategies in recirculating aquaculture systems (RAS).
+
+affiliations:
+  - name: Quaid-i-Azam University (QAU), Islamabad
+    url: https://qau.edu.pk/
+
 links:
   - icon: at-symbol
     url: mailto:nbaig.32411003@zoo.qau.edu.pk
@@ -20,3 +42,84 @@ links:
   - icon: brands/github
     url: https://github.com/hafiznauman31
     label: GitHub
+
+interests:
+  - Fish Thermal & Environmental Stress Physiology
+  - Sustainable Intensive Aquaculture & RAS
+  - Oxidative Stress Biomarkers & Histopathology
+  - Molecular Growth Regulation & Gene Expression
+  - Fish Health & Dietary Prophylactics
+
+education:
+  - degree: Ph.D. Zoology (Fisheries & Aquaculture)
+    institution: Quaid-i-Azam University (QAU), Islamabad
+    start: 2024-03-01
+    summary: |
+      Coursework completed (18 Credit Hours). Research focusing on fish stress physiology, histopathology, and aquaculture health management.
+  - degree: M.Phil. Zoology (Fisheries & Aquaculture)
+    institution: The University of Lahore (UOL), Lahore
+    start: 2021-09-01
+    end: 2023-08-31
+    summary: |
+      Graduated with CGPA 3.73/4.00 (First Division). Thesis on physiological and protective roles of dietary Vitamin C against ZnSO4 toxicity in Nile Tilapia.
+  - degree: B.S. (4-Year) Zoology (Fisheries Specialization)
+    institution: University of the Punjab (PU), Lahore
+    start: 2014-09-01
+    end: 2018-06-30
+    summary: |
+      First Division. Specialized in Fisheries, aquatic biology, and animal physiology.
+
+experience:
+  - role: PhD Research Scholar
+    org: Quaid-i-Azam University
+    start: 2024-03-01
+    summary: |
+      Conducting advanced doctoral research on fish environmental stress, histopathology, and physiological biomonitoring.
+  - role: Fisheries Research Assistant
+    org: Department of Fisheries, Government of Punjab (Chakwal)
+    start: 2019-07-01
+    end: 2020-07-31
+    summary: |
+      Conducted cage culture operations, monitored water quality parameters, and assisted in aquatic disease surveillance and biomass tracking.
+
+skills:
+  - name: Aquaculture & Physiology
+    items:
+      - label: Fish Husbandry & RAS Operations
+        level: 5
+      - label: Water Bio-chemistry Monitoring
+        level: 5
+      - label: Toxicity Profiling & Bio-assays
+        level: 4
+      - label: Tissue Microtomy & Histopathology
+        level: 4
+  - name: Molecular & Analytical Tools
+    items:
+      - label: RNA Extraction & RT-qPCR
+        level: 4
+      - label: Colorimetric & ELISA Assays
+        level: 4
+      - label: R-Studio & Statistical Modeling (LMM, ZOIB)
+        level: 4
+      - label: SPSS & Data Analysis
+        level: 5
+
+languages:
+  - name: English
+    level: 5
+    label: Professional / Fluent
+  - name: Urdu
+    level: 5
+    label: Native
+
+awards:
+  - title: Invited Trainer & Presenter
+    awarder: Quaid-i-Azam University / PFS / HEC
+    date: "2025-01-15"
+    summary: Presented on Fish Health Management and Genetic Tools for Sustainable Fisheries at International Symposium.
+    icon: hero/trophy
+  - title: Ocean Governance Certification
+    awarder: IOI Ocean Academy
+    date: "2025-10-01"
+    summary: Certified in Sustainable Use of Ocean Resources and Marine Governance.
+    icon: hero/academic-cap
