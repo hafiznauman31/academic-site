@@ -71,16 +71,16 @@ education:
 
 experience:
   - role: PhD Research Scholar
-    org: Quaid-i-Azam University
+    org: Quaid-i-Azam University (QAU), Islamabad
     start: 2024-03-01
     summary: |
-      Conducting advanced doctoral research on fish environmental stress, histopathology, and physiological biomonitoring.
-  - role: Fisheries Research Assistant
+      Conducting advanced doctoral research on fish environmental stress physiology, histopathology, and biomonitoring in modern recirculating aquaculture systems (RAS).
+  - role: Fisheries Research Assistant (BPS-15)
     org: Department of Fisheries, Government of Punjab (Chakwal)
-    start: 2019-07-01
-    end: 2020-07-31
+    start: 2019-07-09
+    end: 2020-12-31
     summary: |
-      Conducted cage culture operations, monitored water quality parameters, and assisted in aquatic disease surveillance and biomass tracking.
+      Assigned to the development project "Studies on Economic Analysis of Cage Fish Culture in Potohar Region". Executed cage fish culture operations, water quality monitoring (DO, pH, temperature, ammonia), and biological data curation for regional aquaculture development.
 
 skills:
   - name: Aquaculture & Physiology
@@ -142,3 +142,8 @@ awards:
     date: "2025-01-09"
     summary: Key event organizer for the international symposium "Innovating for Tomorrow: Fish Health Management and Genetic Tools for Sustainable Fisheries".
     icon: hero/trophy
+- title: Professional Training on Extension, Conservation & Computer Skills
+    awarder: Fisheries Research & Training Institute (FR&TI), Manawan, Lahore
+    date: "2020-02-28"
+    summary: Specialized training organized by the Directorate of Fisheries (R&T), Government of Punjab.
+    icon: hero/academic-cap
