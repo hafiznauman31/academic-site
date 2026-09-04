@@ -35,4 +35,18 @@ sections:
         My research centers on fish environmental and thermal stress physiology, sustainable recirculating aquaculture systems (RAS), and oxidative stress mitigation. I investigate nutritional prophylactic interventions—specifically dietary antioxidants like ascorbic acid—and explore aquatic animal disease resilience, broodstock genetics, and tissue histopathology to enhance sustainable fish production.
     design:
       columns: '1'
+
+  - block: collection
+    id: news
+    content:
+      title: '📰 Recent News'
+      subtitle: 'Academic Milestones & Placements'
+      text: ''
+      filters:
+        folders:
+          - blog
+        featured_only: false
+    design:
+      view: compact
+      columns: '1'
 ---
