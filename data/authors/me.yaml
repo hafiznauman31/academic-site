@@ -85,8 +85,8 @@ experience:
     start: 2019-07-09
     end: 2020-12-31
     summary: |
-      Assigned to the development project "Studies on Economic Analysis of Cage Fish Culture in Potohar Region". Executed cage fish culture operations, water quality monitoring (DO, pH, temperature, ammonia), and biological data curation for regional aquaculture development.
-
+      Assigned to the development project 'Studies on Economic Analysis of Cage Fish Culture in Potohar Region'. Executed cage fish culture operations, water quality monitoring (DO, pH, temperature, ammonia), and biological data curation for regional aquaculture development.
+      
 skills:
   - name: Aquaculture & Physiology
     items:
@@ -145,7 +145,7 @@ awards:
   - title: Organizer – International Symposium on Fish Health & Genetics
     awarder: Quaid-i-Azam University / Pakistan Fisheries Society / HEC
     date: "2025-01-09"
-    summary: Key event organizer for the international symposium "Innovating for Tomorrow: Fish Health Management and Genetic Tools for Sustainable Fisheries".
+    summary: 'Key event organizer for the international symposium: Innovating for Tomorrow: Fish Health Management and Genetic Tools for Sustainable Fisheries.'
     icon: hero/trophy
 
   - title: Professional Training on Extension, Conservation & Computer Skills
