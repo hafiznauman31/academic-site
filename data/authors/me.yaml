@@ -55,19 +55,24 @@ education:
     institution: Quaid-i-Azam University (QAU), Islamabad
     start: 2024-03-01
     summary: |
-      Coursework completed (18 Credit Hours). Research focusing on fish stress physiology, histopathology, and aquaculture health management.
+      Completed 18 credit hours of doctoral coursework covering Aquaculture, Fish Nutrition, Fish Behavior, Genetics & Breeding in Aquaculture, Diagnostics Parasitology, and Research Planning. Dissertation research in progress.
   - degree: M.Phil. Zoology (Fisheries & Aquaculture)
     institution: The University of Lahore (UOL), Lahore
     start: 2021-09-01
     end: 2023-08-31
     summary: |
-      Graduated with CGPA 3.73/4.00 (First Division). Thesis on physiological and protective roles of dietary Vitamin C against ZnSO4 toxicity in Nile Tilapia.
-  - degree: B.S. (4-Year) Zoology (Fisheries Specialization)
-    institution: University of the Punjab (PU), Lahore
-    start: 2014-09-01
-    end: 2018-06-30
+      First Division (80.33%, CGPA 3.73/4.00). Thesis on the physiological and protective roles of dietary Vitamin C against ZnSO4-induced toxicity in Nile Tilapia (Oreochromis niloticus).
+  - degree: B.S. (4-Year) Zoology
+    institution: University of the Punjab / Govt. College of Science, Lahore
+    start: 2013-09-01
+    end: 2017-08-31
     summary: |
-      First Division. Specialized in Fisheries, aquatic biology, and animal physiology.
+      CGPA 2.67. Specialized coursework in Fisheries, aquatic biology, environmental physiology, and animal diversity.
+  - degree: Hifz-ul-Quran
+    institution: Madrasa-tul-Madina, Lahore
+    end: 2007-03-11
+    summary: |
+      Formal Sanad-e-Takmeel in memorization of the Holy Quran.
 
 experience:
   - role: PhD Research Scholar
@@ -142,7 +147,8 @@ awards:
     date: "2025-01-09"
     summary: Key event organizer for the international symposium "Innovating for Tomorrow: Fish Health Management and Genetic Tools for Sustainable Fisheries".
     icon: hero/trophy
-- title: Professional Training on Extension, Conservation & Computer Skills
+
+  - title: Professional Training on Extension, Conservation & Computer Skills
     awarder: Fisheries Research & Training Institute (FR&TI), Manawan, Lahore
     date: "2020-02-28"
     summary: Specialized training organized by the Directorate of Fisheries (R&T), Government of Punjab.
